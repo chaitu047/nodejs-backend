@@ -26,4 +26,4 @@ function isAnagram_alter(str1, str2) {
   return true;
 }
 
-console.log(isAnagramFrequency("abcde", "ekdba"));
+console.log(isAnagramFrequency("abcde", "ecdba"));
